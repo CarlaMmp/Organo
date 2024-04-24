@@ -1,0 +1,27 @@
+.formulario {
+    display: flex;
+    justify-content: center;
+
+}
+
+.formulario form {
+    max-width: 35%;
+    background-color: #F2F2F2;
+    border-radius: 20px;
+    padding: 15px 50px;
+    border-radius: 10px;
+    height: 33em;
+}
+
+section {
+    background-image: url('fundo.png'); 
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: center;
+    margin: 4px;
+}

@@ -1,0 +1,29 @@
+.campo-texto {
+    margin: 12px 0;
+}
+
+.campo-texto label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 22px;
+    text-align: center;
+}
+
+.campo-texto input {
+    background-color: #fff;
+    box-shadow: 0px 4px 14px rgba(0, 0, 0.06);
+    width: 100%;
+    border: none;
+    font-size: 21px;
+    padding: 10px;
+    box-sizing: border-box;
+    max-width: 14em;
+    position: relative;
+    left: 4em;
+    border-radius: 10px;
+}
+
+.formulario input::placeholder {
+    font-size: 18px;
+  }
+  
